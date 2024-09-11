@@ -1,0 +1,212 @@
+E:\VISUALSTUDIO\Projeto-teste\projeto-teste\bin\Debug\net6.0-windows\projeto-teste.exe
+E:\VISUALSTUDIO\Projeto-teste\projeto-teste\bin\Debug\net6.0-windows\projeto-teste.deps.json
+E:\VISUALSTUDIO\Projeto-teste\projeto-teste\bin\Debug\net6.0-windows\projeto-teste.runtimeconfig.json
+E:\VISUALSTUDIO\Projeto-teste\projeto-teste\bin\Debug\net6.0-windows\projeto-teste.dll
+E:\VISUALSTUDIO\Projeto-teste\projeto-teste\bin\Debug\net6.0-windows\projeto-teste.pdb
+E:\VISUALSTUDIO\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\projeto_teste.Resources.resources
+E:\VISUALSTUDIO\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.vbproj.GenerateResource.cache
+E:\VISUALSTUDIO\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.GeneratedMSBuildEditorConfig.editorconfig
+E:\VISUALSTUDIO\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.AssemblyInfoInputs.cache
+E:\VISUALSTUDIO\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.AssemblyInfo.vb
+E:\VISUALSTUDIO\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.vbproj.CoreCompileInputs.cache
+E:\VISUALSTUDIO\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.dll
+E:\VISUALSTUDIO\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\refint\projeto-teste.dll
+E:\VISUALSTUDIO\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.pdb
+E:\VISUALSTUDIO\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.genruntimeconfig.cache
+E:\VISUALSTUDIO\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\ref\projeto-teste.dll
+D:\VISUALSTUDIO\Projeto-teste\projeto-teste\bin\Debug\net6.0-windows\projeto-teste.exe
+D:\VISUALSTUDIO\Projeto-teste\projeto-teste\bin\Debug\net6.0-windows\projeto-teste.deps.json
+D:\VISUALSTUDIO\Projeto-teste\projeto-teste\bin\Debug\net6.0-windows\projeto-teste.runtimeconfig.json
+D:\VISUALSTUDIO\Projeto-teste\projeto-teste\bin\Debug\net6.0-windows\projeto-teste.dll
+D:\VISUALSTUDIO\Projeto-teste\projeto-teste\bin\Debug\net6.0-windows\projeto-teste.pdb
+D:\VISUALSTUDIO\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.vbproj.AssemblyReference.cache
+D:\VISUALSTUDIO\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\projeto_teste.Resources.resources
+D:\VISUALSTUDIO\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.vbproj.GenerateResource.cache
+D:\VISUALSTUDIO\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.GeneratedMSBuildEditorConfig.editorconfig
+D:\VISUALSTUDIO\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.AssemblyInfoInputs.cache
+D:\VISUALSTUDIO\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.AssemblyInfo.vb
+D:\VISUALSTUDIO\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.vbproj.CoreCompileInputs.cache
+D:\VISUALSTUDIO\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.dll
+D:\VISUALSTUDIO\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\refint\projeto-teste.dll
+D:\VISUALSTUDIO\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.pdb
+D:\VISUALSTUDIO\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.genruntimeconfig.cache
+D:\VISUALSTUDIO\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\ref\projeto-teste.dll
+D:\VISUALSTUDIO\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\projeto_teste.frm_login.resources
+D:\VISUALSTUDIO\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\projeto_teste.frm_gerente.resources
+D:\VISUALSTUDIO\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\projeto_teste.Frm_caixa.resources
+E:\VISUALSTUDIO\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\projeto_teste.Frm_gerente.resources
+E:\VISUALSTUDIO\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\projeto_teste.Frm_login.resources
+E:\VISUALSTUDIO\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\projeto_teste.Frm_garçom.resources
+E:\VISUALSTUDIO\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\projeto_teste.Frm_caixa.resources
+E:\VISUALSTUDIO\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\projeto_teste.Cadastro.resources
+E:\VISUALSTUDIO\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\projeto_teste.Cadastro_funcionários.resources
+E:\VISUALSTUDIO\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\projeto_teste.Funcionarios.resources
+E:\VISUALSTUDIO\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\projeto_teste.Gerenciamento_Funcionarios.resources
+D:\N2\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.vbproj.AssemblyReference.cache
+D:\N2\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\projeto_teste.Cadastro.resources
+D:\N2\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\projeto_teste.Cadastro_funcionários.resources
+D:\N2\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\projeto_teste.Frm_caixa.resources
+D:\N2\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\projeto_teste.Frm_garçom.resources
+D:\N2\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\projeto_teste.Frm_gerente.resources
+D:\N2\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\projeto_teste.Frm_login.resources
+D:\N2\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\projeto_teste.Funcionarios.resources
+D:\N2\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\projeto_teste.Gerenciamento_Funcionarios.resources
+D:\N2\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\projeto_teste.Resources.resources
+D:\N2\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.vbproj.GenerateResource.cache
+D:\N2\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.GeneratedMSBuildEditorConfig.editorconfig
+D:\N2\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.AssemblyInfoInputs.cache
+D:\N2\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.AssemblyInfo.vb
+D:\N2\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.vbproj.CoreCompileInputs.cache
+D:\N2\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.dll
+D:\N2\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\refint\projeto-teste.dll
+D:\N2\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.pdb
+D:\N2\Projeto-teste\projeto-teste\bin\Debug\net6.0-windows\projeto-teste.exe
+D:\N2\Projeto-teste\projeto-teste\bin\Debug\net6.0-windows\projeto-teste.deps.json
+D:\N2\Projeto-teste\projeto-teste\bin\Debug\net6.0-windows\projeto-teste.runtimeconfig.json
+D:\N2\Projeto-teste\projeto-teste\bin\Debug\net6.0-windows\projeto-teste.dll
+D:\N2\Projeto-teste\projeto-teste\bin\Debug\net6.0-windows\projeto-teste.pdb
+D:\N2\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.genruntimeconfig.cache
+D:\N2\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\ref\projeto-teste.dll
+F:\N2\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\projeto_teste.frm_cadastro.resources
+F:\N2\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\projeto_teste.Frm_caixa.resources
+F:\N2\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\projeto_teste.Frm_garçom.resources
+F:\N2\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\projeto_teste.Frm_gerente.resources
+F:\N2\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\projeto_teste.Frm_login.resources
+F:\N2\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\projeto_teste.frm_menu.resources
+F:\N2\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\projeto_teste.Resources.resources
+F:\N2\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.vbproj.GenerateResource.cache
+F:\N2\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.GeneratedMSBuildEditorConfig.editorconfig
+F:\N2\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.AssemblyInfoInputs.cache
+F:\N2\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.AssemblyInfo.vb
+F:\N2\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.vbproj.CoreCompileInputs.cache
+F:\N2\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.dll
+F:\N2\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\refint\projeto-teste.dll
+F:\N2\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.pdb
+F:\N2\Projeto-teste\projeto-teste\bin\Debug\net6.0-windows\projeto-teste.exe
+F:\N2\Projeto-teste\projeto-teste\bin\Debug\net6.0-windows\projeto-teste.deps.json
+F:\N2\Projeto-teste\projeto-teste\bin\Debug\net6.0-windows\projeto-teste.runtimeconfig.json
+F:\N2\Projeto-teste\projeto-teste\bin\Debug\net6.0-windows\projeto-teste.dll
+F:\N2\Projeto-teste\projeto-teste\bin\Debug\net6.0-windows\projeto-teste.pdb
+F:\N2\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.genruntimeconfig.cache
+F:\N2\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\ref\projeto-teste.dll
+E:\VISUALSTUDIO\projeto-teste (atualizado)\N2\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\projeto_teste.Cadastro_cardapio.resources
+E:\VISUALSTUDIO\projeto-teste (atualizado)\N2\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\projeto_teste.frm_cadastro.resources
+E:\VISUALSTUDIO\projeto-teste (atualizado)\N2\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\projeto_teste.Frm_caixa.resources
+E:\VISUALSTUDIO\projeto-teste (atualizado)\N2\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\projeto_teste.Frm_garçom.resources
+E:\VISUALSTUDIO\projeto-teste (atualizado)\N2\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\projeto_teste.Frm_gerente.resources
+E:\VISUALSTUDIO\projeto-teste (atualizado)\N2\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\projeto_teste.Frm_pedidos.resources
+E:\VISUALSTUDIO\projeto-teste (atualizado)\N2\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\projeto_teste.Frm_login.resources
+E:\VISUALSTUDIO\projeto-teste (atualizado)\N2\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\projeto_teste.Resources.resources
+E:\VISUALSTUDIO\projeto-teste (atualizado)\N2\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.vbproj.GenerateResource.cache
+E:\VISUALSTUDIO\projeto-teste (atualizado)\N2\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.GeneratedMSBuildEditorConfig.editorconfig
+E:\VISUALSTUDIO\projeto-teste (atualizado)\N2\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.AssemblyInfoInputs.cache
+E:\VISUALSTUDIO\projeto-teste (atualizado)\N2\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.AssemblyInfo.vb
+E:\VISUALSTUDIO\projeto-teste (atualizado)\N2\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.vbproj.CoreCompileInputs.cache
+E:\VISUALSTUDIO\projeto-teste (atualizado)\N2\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.dll
+E:\VISUALSTUDIO\projeto-teste (atualizado)\N2\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\refint\projeto-teste.dll
+E:\VISUALSTUDIO\projeto-teste (atualizado)\N2\Projeto-teste\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.pdb
+C:\Users\Aluno\Downloads\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.vbproj.AssemblyReference.cache
+C:\Users\Aluno\Downloads\projeto-teste\obj\Debug\net6.0-windows\Interop.ADODB.dll
+C:\Users\Aluno\Downloads\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.vbproj.ResolveComReference.cache
+C:\Users\Aluno\Downloads\projeto-teste\obj\Debug\net6.0-windows\projeto_teste.Cadastro_cardapio.resources
+C:\Users\Aluno\Downloads\projeto-teste\obj\Debug\net6.0-windows\projeto_teste.frm_cadastro.resources
+C:\Users\Aluno\Downloads\projeto-teste\obj\Debug\net6.0-windows\projeto_teste.Frm_caixa.resources
+C:\Users\Aluno\Downloads\projeto-teste\obj\Debug\net6.0-windows\projeto_teste.Frm_garçom.resources
+C:\Users\Aluno\Downloads\projeto-teste\obj\Debug\net6.0-windows\projeto_teste.Frm_gerente.resources
+C:\Users\Aluno\Downloads\projeto-teste\obj\Debug\net6.0-windows\projeto_teste.Frm_pedidos.resources
+C:\Users\Aluno\Downloads\projeto-teste\obj\Debug\net6.0-windows\projeto_teste.Frm_login.resources
+C:\Users\Aluno\Downloads\projeto-teste\obj\Debug\net6.0-windows\projeto_teste.Resources.resources
+C:\Users\Aluno\Downloads\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.vbproj.GenerateResource.cache
+C:\Users\Aluno\Downloads\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Downloads\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.AssemblyInfoInputs.cache
+C:\Users\Aluno\Downloads\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.AssemblyInfo.vb
+C:\Users\Aluno\Downloads\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.vbproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.dll
+C:\Users\Aluno\Downloads\projeto-teste\obj\Debug\net6.0-windows\refint\projeto-teste.dll
+C:\Users\Aluno\Downloads\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.pdb
+C:\Users\Aluno\Downloads\projeto-teste\bin\Debug\net6.0-windows\projeto-teste.exe
+C:\Users\Aluno\Downloads\projeto-teste\bin\Debug\net6.0-windows\projeto-teste.deps.json
+C:\Users\Aluno\Downloads\projeto-teste\bin\Debug\net6.0-windows\projeto-teste.runtimeconfig.json
+C:\Users\Aluno\Downloads\projeto-teste\bin\Debug\net6.0-windows\projeto-teste.dll
+C:\Users\Aluno\Downloads\projeto-teste\bin\Debug\net6.0-windows\projeto-teste.pdb
+C:\Users\Aluno\Downloads\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.genruntimeconfig.cache
+C:\Users\Aluno\Downloads\projeto-teste\obj\Debug\net6.0-windows\ref\projeto-teste.dll
+D:\N2\projeto-teste\bin\Debug\net6.0-windows\projeto-teste.exe
+D:\N2\projeto-teste\bin\Debug\net6.0-windows\projeto-teste.deps.json
+D:\N2\projeto-teste\bin\Debug\net6.0-windows\projeto-teste.runtimeconfig.json
+D:\N2\projeto-teste\bin\Debug\net6.0-windows\projeto-teste.dll
+D:\N2\projeto-teste\bin\Debug\net6.0-windows\projeto-teste.pdb
+D:\N2\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.vbproj.AssemblyReference.cache
+D:\N2\projeto-teste\obj\Debug\net6.0-windows\Interop.ADODB.dll
+D:\N2\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.vbproj.ResolveComReference.cache
+D:\N2\projeto-teste\obj\Debug\net6.0-windows\projeto_teste.Cadastro_cardapio.resources
+D:\N2\projeto-teste\obj\Debug\net6.0-windows\projeto_teste.frm_cadastro.resources
+D:\N2\projeto-teste\obj\Debug\net6.0-windows\projeto_teste.Frm_caixa.resources
+D:\N2\projeto-teste\obj\Debug\net6.0-windows\projeto_teste.Frm_garçom.resources
+D:\N2\projeto-teste\obj\Debug\net6.0-windows\projeto_teste.Frm_gerente.resources
+D:\N2\projeto-teste\obj\Debug\net6.0-windows\projeto_teste.Frm_pedidos.resources
+D:\N2\projeto-teste\obj\Debug\net6.0-windows\projeto_teste.Frm_login.resources
+D:\N2\projeto-teste\obj\Debug\net6.0-windows\projeto_teste.Resources.resources
+D:\N2\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.vbproj.GenerateResource.cache
+D:\N2\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.GeneratedMSBuildEditorConfig.editorconfig
+D:\N2\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.AssemblyInfoInputs.cache
+D:\N2\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.AssemblyInfo.vb
+D:\N2\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.vbproj.CoreCompileInputs.cache
+D:\N2\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.dll
+D:\N2\projeto-teste\obj\Debug\net6.0-windows\refint\projeto-teste.dll
+D:\N2\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.pdb
+D:\N2\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.genruntimeconfig.cache
+D:\N2\projeto-teste\obj\Debug\net6.0-windows\ref\projeto-teste.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\projeto-teste\bin\Debug\net6.0-windows\projeto-teste.exe
+C:\Users\vitor\OneDrive\Área de Trabalho\projeto-teste\bin\Debug\net6.0-windows\projeto-teste.deps.json
+C:\Users\vitor\OneDrive\Área de Trabalho\projeto-teste\bin\Debug\net6.0-windows\projeto-teste.runtimeconfig.json
+C:\Users\vitor\OneDrive\Área de Trabalho\projeto-teste\bin\Debug\net6.0-windows\projeto-teste.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\projeto-teste\bin\Debug\net6.0-windows\projeto-teste.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\projeto-teste\obj\Debug\net6.0-windows\Interop.ADODB.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.vbproj.ResolveComReference.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\projeto-teste\obj\Debug\net6.0-windows\projeto_teste.Cadastro_cardapio.resources
+C:\Users\vitor\OneDrive\Área de Trabalho\projeto-teste\obj\Debug\net6.0-windows\projeto_teste.frm_cadastro.resources
+C:\Users\vitor\OneDrive\Área de Trabalho\projeto-teste\obj\Debug\net6.0-windows\projeto_teste.Frm_caixa.resources
+C:\Users\vitor\OneDrive\Área de Trabalho\projeto-teste\obj\Debug\net6.0-windows\projeto_teste.Frm_garçom.resources
+C:\Users\vitor\OneDrive\Área de Trabalho\projeto-teste\obj\Debug\net6.0-windows\projeto_teste.Frm_gerente.resources
+C:\Users\vitor\OneDrive\Área de Trabalho\projeto-teste\obj\Debug\net6.0-windows\projeto_teste.Frm_pedidos.resources
+C:\Users\vitor\OneDrive\Área de Trabalho\projeto-teste\obj\Debug\net6.0-windows\projeto_teste.Frm_login.resources
+C:\Users\vitor\OneDrive\Área de Trabalho\projeto-teste\obj\Debug\net6.0-windows\projeto_teste.Resources.resources
+C:\Users\vitor\OneDrive\Área de Trabalho\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.vbproj.GenerateResource.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\OneDrive\Área de Trabalho\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.AssemblyInfoInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.AssemblyInfo.vb
+C:\Users\vitor\OneDrive\Área de Trabalho\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.vbproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\projeto-teste\obj\Debug\net6.0-windows\refint\projeto-teste.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.genruntimeconfig.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\projeto-teste\obj\Debug\net6.0-windows\ref\projeto-teste.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\projeto-teste\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Access.dll
+F:\N2\projeto-teste\bin\Debug\net6.0-windows\projeto-teste.exe
+F:\N2\projeto-teste\bin\Debug\net6.0-windows\projeto-teste.deps.json
+F:\N2\projeto-teste\bin\Debug\net6.0-windows\projeto-teste.runtimeconfig.json
+F:\N2\projeto-teste\bin\Debug\net6.0-windows\projeto-teste.dll
+F:\N2\projeto-teste\bin\Debug\net6.0-windows\projeto-teste.pdb
+F:\N2\projeto-teste\obj\Debug\net6.0-windows\Interop.ADODB.dll
+F:\N2\projeto-teste\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Access.dll
+F:\N2\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.vbproj.ResolveComReference.cache
+F:\N2\projeto-teste\obj\Debug\net6.0-windows\projeto_teste.Cadastro_cardapio.resources
+F:\N2\projeto-teste\obj\Debug\net6.0-windows\projeto_teste.frm_cadastro.resources
+F:\N2\projeto-teste\obj\Debug\net6.0-windows\projeto_teste.Frm_caixa.resources
+F:\N2\projeto-teste\obj\Debug\net6.0-windows\projeto_teste.Frm_garçom.resources
+F:\N2\projeto-teste\obj\Debug\net6.0-windows\projeto_teste.Frm_gerente.resources
+F:\N2\projeto-teste\obj\Debug\net6.0-windows\projeto_teste.Frm_pedidos.resources
+F:\N2\projeto-teste\obj\Debug\net6.0-windows\projeto_teste.Frm_login.resources
+F:\N2\projeto-teste\obj\Debug\net6.0-windows\projeto_teste.Resources.resources
+F:\N2\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.vbproj.GenerateResource.cache
+F:\N2\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.GeneratedMSBuildEditorConfig.editorconfig
+F:\N2\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.AssemblyInfoInputs.cache
+F:\N2\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.AssemblyInfo.vb
+F:\N2\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.vbproj.CoreCompileInputs.cache
+F:\N2\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.dll
+F:\N2\projeto-teste\obj\Debug\net6.0-windows\refint\projeto-teste.dll
+F:\N2\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.pdb
+F:\N2\projeto-teste\obj\Debug\net6.0-windows\projeto-teste.genruntimeconfig.cache
+F:\N2\projeto-teste\obj\Debug\net6.0-windows\ref\projeto-teste.dll
+D:\N2\projeto-teste\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Access.dll
